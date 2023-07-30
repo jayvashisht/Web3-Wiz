@@ -87,7 +87,7 @@ const defaults:ChatSettings = {
   summaryPrompt: '',
   useSystemPrompt: false,
   systemPrompt: '',
-  sendSystemPromptLast: false,
+  sendSystemPromptLast: true,
   autoStartSession: false,
   trainingPrompts: [],
   hiddenPromptPrefix: '',

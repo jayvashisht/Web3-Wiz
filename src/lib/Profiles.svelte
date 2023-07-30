@@ -174,13 +174,13 @@ const profiles:Record<string, ChatSettings> = {
 
     default: {
       ...chatDefaults,
-      characterName: 'ChatGPT',
-      profileName: 'ChatGPT - The AI language model',
-      profileDescription: 'The AI language model that always reminds you that it\'s an AI language model.',
-      useSystemPrompt: false,
+      characterName: 'Web3-Wiz',
+      profileName: 'Web3-Wiz - The Web3 tutor for everyone.',
+      profileDescription: 'The easiest way to learn about Web3.',
+      useSystemPrompt: true,
       continuousChat: 'fifo', // '' is off
       autoStartSession: false,
-      systemPrompt: '',
+      systemPrompt: 'Your name is Web3-Wiz. Your job is to teach students about Web3.',
       summaryPrompt: ''
     },
   

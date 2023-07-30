@@ -24,7 +24,7 @@ onMount(() => {
 <section class="section">
   <article class="message">
     <div class="message-body">
-      <strong><a href="https://github.com/Niek/chatgpt-web">ChatGPT-web</a></strong>
+      <strong><a href="https://github.com/Niek/chatgpt-web">Web3-Wiz</a></strong>
       is a simple one-page web interface to the OpenAI ChatGPT API. To use it, you need to register for
       <a href="https://platform.openai.com/account/api-keys" target="_blank" rel="noreferrer">an OpenAI API key</a>
       first. OpenAI bills per token (usage-based), which means it is a lot cheaper than
